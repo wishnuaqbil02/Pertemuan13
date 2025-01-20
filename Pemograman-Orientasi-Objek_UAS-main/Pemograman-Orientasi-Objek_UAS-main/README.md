@@ -4,8 +4,8 @@ Proyek ini adalah aplikasi **CRUD Mahasiswa** yang dibangun menggunakan **Java**
 
 ## Identitas Proyek
 
-- **Nama:** Agus Setiawan
-- **NIM:** 312310507  
+- **Nama:** Wishnu Aqbil Ramadani
+- **NIM:** 312310591
 - **Kelas:** TI.23.A6  
 - **Mata Kuliah:** Pemrograman Berorientasi Objek  
 - **Dosen:** Agung Nugroho, S.Kom., M.Kom.
